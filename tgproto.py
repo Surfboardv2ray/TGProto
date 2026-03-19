@@ -194,6 +194,7 @@ processed_codes = list(set(codes))
 cleaned = []
 for x in processed_codes:
     x = requests.utils.unquote(x).strip()
+    x = x.replace("amp;", "")
 
     # convert tg:// → https://t.me/
     x = x.replace("tg://proxy", "https://t.me/proxy")
