@@ -38,8 +38,8 @@ def substring_del(string_list):
             out.append(s)
     return out
 
-tg_name_json = json_load('telegramchannels.json')
-inv_tg_name_json = json_load('invalidtelegramchannels.json')
+tg_name_json = json_load('ch.json')
+inv_tg_name_json = json_load('ch-inv.json')
 
 inv_tg_name_json[:] = [x for x in inv_tg_name_json if len(x) >= 5]
 inv_tg_name_json = list(set(inv_tg_name_json)-set(tg_name_json))
@@ -47,8 +47,8 @@ inv_tg_name_json = list(set(inv_tg_name_json)-set(tg_name_json))
 thrd_pars = int(os.getenv('THRD_PARS', '128'))
 pars_dp = int(os.getenv('PARS_DP', '1'))
 
-print(f'\nTotal channel names in telegramchannels.json         - {len(tg_name_json)}')
-print(f'Total channel names in invalidtelegramchannels.json - {len(inv_tg_name_json)}')
+print(f'\nTotal channel names in ch.json         - {len(tg_name_json)}')
+print(f'Total channel names in ch-inv.json - {len(inv_tg_name_json)}')
 
 use_inv_tc = os.getenv('USE_INV_TC', 'n')
 use_inv_tc = True if use_inv_tc.lower() == 'y' else False
@@ -88,7 +88,7 @@ tg_name_json = sorted(list(set(tg_name_json)))
 
 print(f'In the end, new names  - {len(tg_name_json)}')
 
-with open('telegramchannels.json', 'w', encoding="utf-8") as telegram_channels_file:
+with open('ch.json', 'w', encoding="utf-8") as telegram_channels_file:
     json.dump(tg_name_json, telegram_channels_file, indent=4)
 
 print(f'\nSearch for new names is over - {str(datetime.now() - start_time).split(".")[0]}')
@@ -211,12 +211,12 @@ print(f'\nRemaining tg channels after deletion - {len(new_tg_name_json)}')
 
 inv_tg_name_json = sorted(list(set(inv_tg_name_json)))
 
-print(f'\nSave new telegramchannels.json, invalidtelegramchannels.json and proxies.txt...')
+print(f'\nSave new ch.json, ch-inv.json and proxies.txt...')
 
-with open('telegramchannels.json', 'w', encoding="utf-8") as f:
+with open('ch.json', 'w', encoding="utf-8") as f:
     json.dump(new_tg_name_json, f, indent=4)
 
-with open('invalidtelegramchannels.json', 'w', encoding="utf-8") as f:
+with open('ch-inv.json', 'w', encoding="utf-8") as f:
     json.dump(inv_tg_name_json, f, indent=4)
 
 with open("proxies.txt", "w", encoding="utf-8") as file:
