@@ -1,0 +1,52 @@
+name: Telegram Proxy Scraper
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"   # every 4 hours
+  workflow_dispatch:        # manual run
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    env:
+      THRD_PARS: '128'
+      PARS_DP: '5'
+      USE_INV_TC: 'n'
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      # ✅ Ensure files exist and are clean
+      - name: Prepare files (clear old content)
+        run: |
+          echo "[]" > ch.json
+          echo "[]" > ch-inv.json
+          echo "" > proxies.txt
+
+      - name: Run script
+        run: |
+          python tpgroto.py
+
+      # ✅ Commit and push changes
+      - name: Commit & push if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git add ch.json ch-inv.json proxies.txt
+
+          # commit only if there are changes
+          git diff --cached --quiet || git commit -m "Update proxies [auto]"
+
+          git push
