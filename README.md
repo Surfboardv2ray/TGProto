@@ -6,13 +6,12 @@
 
 # Links
 - **All fetched proxies**
-    ```bash
-    https://raw.githubusercontent.com/Surfboardv2ray/TGProto/refs/heads/main/proxies.txt
-    ```
-- **Tested working proxies**
-    ```bash
-    https://raw.githubusercontent.com/Surfboardv2ray/TGProto/refs/heads/main/proxies-tested.txt
-    ```
+    [proxies](https://raw.githubusercontent.com/Surfboardv2ray/TGProto/refs/heads/main/proxies.txt)
+- **Tested working proxies**bash
+    [proxies-tested](https://raw.githubusercontent.com/Surfboardv2ray/TGProto/refs/heads/main/proxies-tested.txt)
 
 
 ![0](https://raw.githubusercontent.com/Ptechgithub/configs/main/media/line.gif)
+
+# Acknowledgements
+* Thanks to [ndsphonemy](https://github.com/ndsphonemy), base `tgproto.py` is a fork of their [TG-Proxy-Parser](https://github.com/ndsphonemy/TG-Proxy-Parser).
