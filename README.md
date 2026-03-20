@@ -5,10 +5,8 @@
 )](https://github.com/surfboardv2ray/TGProto)
 
 # Links
-- **All fetched proxies**
-    [proxies](https://raw.githubusercontent.com/Surfboardv2ray/TGProto/refs/heads/main/proxies.txt)
-- **Tested working proxies**bash
-    [proxies-tested](https://raw.githubusercontent.com/Surfboardv2ray/TGProto/refs/heads/main/proxies-tested.txt)
+- [All fetched proxies](https://raw.githubusercontent.com/Surfboardv2ray/TGProto/refs/heads/main/proxies.txt)
+- [Tested working proxies](https://raw.githubusercontent.com/Surfboardv2ray/TGProto/refs/heads/main/proxies-tested.txt)
 
 
 ![0](https://raw.githubusercontent.com/Ptechgithub/configs/main/media/line.gif)
