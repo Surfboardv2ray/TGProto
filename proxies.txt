@@ -31,7 +31,6 @@ https://t.me/proxy?server=195.254.165.249&port=25565&secret=dd79e344818749bd7ac5
 https://t.me/proxy?server=195.254.165.250&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=212.34.148.178&port=8443&secret=dd35918b7ce61021ac749f78c43c14d6bc
-https://t.me/proxy?server=212.34.148.178&port=8443&secret=dd35918b7ce61021ac749f78c43c14d6bc@LyricPixelArt
 https://t.me/proxy?server=212.80.18.74&port=39090&secret=767cf6f14f461cdd166b54eddb53e1b0
 https://t.me/proxy?server=216.230.234.3&port=8443&secret=cd25966d58b3a452ea24ed9ca78a2799
 https://t.me/proxy?server=217.177.75.145&port=443&secret=1b23e68aebd74373a29ac5f5523fa29c
