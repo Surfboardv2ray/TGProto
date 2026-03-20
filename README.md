@@ -1,7 +1,7 @@
 <h1 align="center">TGProto</h1>
 <h2 align="center">Fetch MTProto and SOCKS5 proxies from Telegram Channels.</h2>
 
-[![Stars](https://img.shields.io/github/stars/surfboardv2ray/TGProto?style=flat&label=Stars&color=green
+[![Stars](https://img.shields.io/github/stars/surfboardv2ray/TGProto?style=flat&label=Stars&color=FFD700
 )](https://github.com/surfboardv2ray/TGProto)
 
 # Links
