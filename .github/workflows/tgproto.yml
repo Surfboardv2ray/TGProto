@@ -40,5 +40,6 @@ jobs:
 
           git diff --cached --quiet && exit 0
 
-          git commit -m "Update proxies [auto]"
+          timestamp=$(TZ='Asia/Tehran' date)
+          git commit -m "✅Updated on ${timestamp}"
           git push
