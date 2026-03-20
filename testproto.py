@@ -2,7 +2,7 @@
 """
 py_tcp.py (TCP-based proxy checker)
 
-- Reads input.txt (base64 or raw proxies)
+- Reads proxies.txt (base64 or raw proxies)
 - Extracts server + port
 - Resolves domain → IP
 - Tests TCP connection to IP:PORT
@@ -20,7 +20,7 @@ import concurrent.futures
 from datetime import datetime, timezone
 from typing import Optional, Tuple, List
 
-INPUT_FILE = "input.txt"
+INPUT_FILE = "proxies.txt"
 LOG_FILE = "logs.txt"
 OUTPUT_FILE = "proxies-tested.txt"
 
@@ -191,7 +191,7 @@ def main():
         with open(INPUT_FILE, "r", encoding="utf-8") as f:
             lines = f.readlines()
     except FileNotFoundError:
-        print("input.txt not found")
+        print("proxies.txt not found")
         sys.exit(1)
 
     items = gather(lines)
