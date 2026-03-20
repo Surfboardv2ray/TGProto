@@ -42,8 +42,8 @@ jobs:
           git add proxies-tested.txt
 
           git diff --cached --quiet && exit 0
-
-          git commit -m "Update proxies-tested.txt [auto]"
+          timestamp=$(TZ='Asia/Tehran' date)
+          git commit -m "✅Updated on ${timestamp}"
           git push
 
       - name: Upload proxies-tested.txt
