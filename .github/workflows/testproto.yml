@@ -1,0 +1,37 @@
+name: Test Telegram Proxy
+
+on:
+  workflow_run:
+    workflows: ["Telegram Proxy Loader"]
+    types:
+      - completed
+
+jobs:
+  run-test:
+    runs-on: ubuntu-latest
+
+    # remove this if you want it to run even when tgproto.yml fails
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Run testproto.py
+        run: |
+          python testproto.py
+
+      - name: Upload proxies-tested.txt
+        uses: actions/upload-artifact@v4
+        with:
+          name: proxies-tested
+          path: proxies-tested.txt
