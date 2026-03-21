@@ -1,5 +1,6 @@
 https://t.me/proxy?server=1.extravpn.info&port=443&secret=fe9a3f4ab8b18cbc2b793f74c7985e8f
 https://t.me/proxy?server=107.150.34.100&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267&channel=@skyportall
+https://t.me/proxy?server=107.150.34.100&port=443&secret=ee09db815a6d82a31fda76f87223…
 https://t.me/proxy?server=107.150.34.101&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
 https://t.me/proxy?server=107.150.34.101&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267@DerafshVPN
 https://t.me/proxy?server=13.220.166.215&port=80&secret=dd104462821249bd7ac519130220c25d09
@@ -117,7 +118,6 @@ https://t.me/proxy?server=72.56.92.212&port=443&secret=ee0a36567ec8f8ef82ad1f1ad
 https://t.me/proxy?server=77.221.149.56&port=9443&secret=ee963ceeafa5ed5fa934c981e2b035ebc674672e64796e6d652e6f7668
 https://t.me/proxy?server=77.239.112.81&port=443&secret=de9c430f1164f4eb2b2742dcab429252
 https://t.me/proxy?server=77.239.112.86&port=30534&secret=ddbee03206cb1a464769f666fc1820b03f
-https://t.me/proxy?server=77.72.80.11&port=6443&secret=79e70102001e7807f0104386124c0479
 https://t.me/proxy?server=78.157.50.36&port=80&secret=7us3wbGszWlAinJkIZplXEVsb2dpbi5uaXJ2YW5hLXNtb2tlLmNvbQ
 https://t.me/proxy?server=78.157.50.41&port=2087&secret=7us3wbGszWlAinJkIZplXEVsb2dpbi5uaXJ2YW5hLXNtb2tlLmNvbQ
 https://t.me/proxy?server=79.137.204.12&port=443&secret=30a73b76219133b7ce1697f43d3a74a8
@@ -154,6 +154,7 @@ https://t.me/proxy?server=azirproxy.viramon.net&port=2087&secret=7mfbiJU97zNOw8d
 https://t.me/proxy?server=azirproxy.viramon.net&port=2087&secret=7nbzU1RNXdOaRcXi8Zyrke9hcGkubmlydmFuYS1zbW9rZS5jb20#@DerafshVPN
 https://t.me/proxy?server=azirproxy.viramon.net&port=2087&secret=7sZvSBf6_rbi8-cQRDk8s1FhcGkubmlydmFuYS1zbW9rZS5jb20
 https://t.me/proxy?server=azirproxy.viramon.net&port=2087&secret=7sZvSBf6_rbi8-cQRDk8s1FhcGkubmlydmFuYS1zbW9rZS5jb20#@DerafshVPN
+https://t.me/proxy?server=billboardton2.duckdns.org&port=443&secret=ee66ceae886b50975e592ad71558b1202b62696c6c626f617264746f6e322e6475636b646e732e6f7267
 https://t.me/proxy?server=collider.web-yektanet-com.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
 https://t.me/proxy?server=de.nerdpol.ovh&port=4515&secret=ee3177bef597bf8246bae855cee6fe0aa564652e6e657264706f6c2e6f7668
 https://t.me/proxy?server=de.nerdpol.ovh&port=4516&secret=ee85fca33eab6bfe3ccb83a2fed11dd67a64652e6e657264706f6c2e6f7668
