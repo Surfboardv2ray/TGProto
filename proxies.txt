@@ -117,7 +117,6 @@ https://t.me/proxy?server=77.221.149.56&port=9443&secret=ee963ceeafa5ed5fa934c98
 https://t.me/proxy?server=77.239.112.81&port=443&secret=de9c430f1164f4eb2b2742dcab429252
 https://t.me/proxy?server=77.239.112.86&port=30534&secret=ddbee03206cb1a464769f666fc1820b03f
 https://t.me/proxy?server=77.72.80.11&port=6443&secret=79e70102001e7807f0104386124c0479
-https://t.me/proxy?server=77.72.80.86&port=443&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=78.157.50.36&port=80&secret=7us3wbGszWlAinJkIZplXEVsb2dpbi5uaXJ2YW5hLXNtb2tlLmNvbQ
 https://t.me/proxy?server=78.157.50.41&port=2087&secret=7us3wbGszWlAinJkIZplXEVsb2dpbi5uaXJ2YW5hLXNtb2tlLmNvbQ
 https://t.me/proxy?server=79.137.204.12&port=443&secret=30a73b76219133b7ce1697f43d3a74a8
@@ -181,6 +180,7 @@ https://t.me/proxy?server=r1.newr1.co.uk&port=85&secret=FgMBAgABAAH8AxOG4kw63Q
 https://t.me/proxy?server=r1.newr1.co.uk&port=85&secret=FgMBAgABAAH8AxOG4kw63Q==
 https://t.me/proxy?server=r1.newr1.co.uk&port=85&secret=FgMBAgABAAH8AxOG4kw63Q==#@Acc_Girr
 https://t.me/proxy?server=r1.newr1.co.uk&port=85&secret=FgMBAgABAAH8AxOG4kw63Q==@config_uxer
+https://t.me/proxy?server=rimuruproject.ru&port=8443&secret=dd248cdb278a96b01d27f67787135791da
 https://t.me/proxy?server=sn3.multiproxy.info&port=23510&secret=c2e26763c06f9fae680356a010607302
 https://t.me/proxy?server=telegram.mtpproxy.ltvpn.org&port=443&secret=9e9458e4b939ce0894bc146049e64b58
 https://t.me/proxy?server=telegram.mtpproxy.ltvpn.org&port=443&secret=9e9458e4b939ce0894bc146049e64b58#@DerafshVPN
@@ -193,6 +193,7 @@ https://t.me/proxy?server=tg.vpnspacev.com&port=443&secret=bc184fc14b62b9b1dc5f3
 https://t.me/proxy?server=tg.vpnspacev.com&port=443&secret=bc184fc14b62b9b1dc5f34edf9476421#@HTTPinjectorcustom
 https://t.me/proxy?server=turbo.vpnproxy.cc&port=443&secret=ee027b0c5d5de5705398f60424db3332d6747572626f2e76706e70726f78792e6363
 https://t.me/proxy?server=utkapay.life&port=443&secret=eec0ab2dc91cd75da14bf8bde752ca8222766473696e612e7275
+https://t.me/proxy?server=www.merco-karco.website&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
 https://t.me/proxy?server=yas.hostserver17.ir&port=720&secret=eeNEgYdJvXrFGRMCIMJdCQ==
 https://t.me/proxy?server=zerotier1.saba-e.com&port=7336&secret=eead33390c48192788f0a5fe46e7efff3d676f6f676c652e636f6d
 https://t.me/socks?server=0.0.0.0&port=1080
@@ -227,6 +228,5 @@ https://t.me/socks?server=93.115.120.74&port=2020&user=test&pass=R@@t#123
 https://t.me/socks?server=94.182.195.60&port=9090&user=devops&pass=Xz6Txmacjnb2wJBs9Wkp7x209v7Y9maINCtBDApM
 https://t.me/socks?server=socks3.nirvana-smoke.com&port=3389&user=Azir69b4e54121aad&pass=Azir69b4e54121aad
 https://t.me/socks?server=socks3.nirvana-smoke.com&port=3389&user=Azir69b4e54121aad&pass=Azir69b4e54121aad#@DerafshVPN
-https://t.me/socks?server=static.172.69.99.88.clients.your-server.de&port=9050&user=@rootface&pass=@rootface+hacked+the+world🪐💀AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/socks?server=tel-pro-2.qcluster.org&port=4585&user=TMN_General&pass=GN843MQ1EX38VY48V1F2
 https://t.me/socks?server=tg.sless.ru&port=43035&user=sless&pass=uKS9ZWx7vlNG7ncf#@Acc_Girr
