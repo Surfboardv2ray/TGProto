@@ -116,6 +116,7 @@ https://t.me/proxy?server=195.254.165.251&port=25565&secret=dd79e344818749bd7ac5
 https://t.me/proxy?server=195.254.165.251&port=25565&secret=dd79e344818749bd7ac519130220c25d09&@config_uxer
 https://t.me/proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09https://t.me/socks?server=185.121.131.11&port=443
 https://t.me/proxy?server=195.254.165.68&port=65535&secret=EERigv______-AAA__gAAA
 https://t.me/proxy?server=195.254.165.68&port=65535&secret=dd10446282fffffffffff80000fff80000
 https://t.me/proxy?server=195.3.222.170&port=49097&secret=dded820710d93759e7523a02a814b7f6e2
@@ -141,6 +142,7 @@ https://t.me/proxy?server=212.86.64.126&port=443&secret=7l1GrMEsmyDKaEwPncsAz0Z3
 https://t.me/proxy?server=213.176.77.28&port=443&secret=dd8d76c6c7b6958e2a93e04c6ef53aed80
 https://t.me/proxy?server=216.230.234.3&port=8443&secret=cd25966d58b3a452ea24ed9ca78a2799
 https://t.me/proxy?server=217.177.75.145&port=443&secret=1b23e68aebd74373a29ac5f5523fa29c
+https://t.me/proxy?server=217.69.11.92&port=443&secret=1199332058f7d654763443d8cb4f638f
 https://t.me/proxy?server=31.130.151.16&port=443&secret=4931e9e6000537266a0de4dbb81f81fa
 https://t.me/proxy?server=33.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09&@acccrd
 https://t.me/proxy?server=36.141.117.10&port=40508&secret=feff39bcddb62859ade093fcad935858
@@ -153,6 +155,7 @@ https://t.me/proxy?server=37.139.43.80&port=443&secret=f5199e949c0f23bc887581218
 https://t.me/proxy?server=37.139.43.80&port=443&secret=f5199e949c0f23bc887581218ad8c1e6#@HTTPinjectorcustom
 https://t.me/proxy?server=43.250.53.22&port=443&secret=4fc30d1222972a04067e805a5134cb57
 https://t.me/proxy?server=45.139.29.50&port=8443&secret=ddf672deb6dcac2f471e8ccffb1eacc82f
+https://t.me/proxy?server=45.76.42.26&port=443&secret=874068f2508532ada670077c0c69ab0e
 https://t.me/proxy?server=45.92.93.159&port=3443&secret=767cf6f14f461cdd166b54eddb53e1b0&@DerafshVPN
 https://t.me/proxy?server=45.92.93.159&port=3443&secret=767cf6f14f461cdd166b54eddb53e1b0&@Zed_NetMeli
 https://t.me/proxy?server=5.101.82.166&port=7878&secret=48f739d003f42d13dd318bcbd5757d4b
@@ -218,6 +221,7 @@ https://t.me/proxy?server=79.175.149.210&port=443&secret=6321048187495dfac59a030
 https://t.me/proxy?server=79.175.149.210&port=443&secret=dd6321048187495dfac59a030220c25d8e
 https://t.me/proxy?server=79.175.168.210&port=1082&secret=77217a24432646294a404e635266556a
 https://t.me/proxy?server=80.191.110.161&port=110&secret=ddbb01e59aa510ca70ce9e935c471df2d8
+https://t.me/proxy?server=80.66.84.189&port=7878&secret=48f739d003f42d13dd318bcbd5757d4b
 https://t.me/proxy?server=80.66.84.189&port=7878&secret=48f739d003f42d13dd318bcbd5757d4b#@YamYamProxy
 https://t.me/proxy?server=80.78.27.46&port=443&secret=ee813266cd35bc505489ff0a59b9facbc5636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=82.38.71.10&port=8443&secret=0ba2e4a61df37605307a0f879d96be55
@@ -228,6 +232,7 @@ https://t.me/proxy?server=85.133.194.109&port=8443&secret=79e344818749bd7ac51913
 https://t.me/proxy?server=85.133.194.109&port=8443&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=85.133.194.109&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=85.133.194.11&port=8443&secret=dd79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=85.133.194.114&port=8443&secret=79e344818749bd7ac519
 https://t.me/proxy?server=85.133.194.116&port=8443&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=85.133.194.117&port=8443&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=85.133.194.120&port=8443&secret=79e344818749bd7ac519130220c25d09
@@ -425,6 +430,7 @@ https://t.me/socks?server=176.65.242.176&port=1080
 https://t.me/socks?server=176.65.242.179&port=1080
 https://t.me/socks?server=188.212.97.133&port=1080
 https://t.me/socks?server=193.151.134.209&port=52224&user=1z9rj5lHJy&pass=4EvAep8FHs
+https://t.me/socks?server=193.58.119.206&port=8080‌
 https://t.me/socks?server=194.85.251.197&port=35269&user=vxJmomhbh1&pass=ch21ALrQE2
 https://t.me/socks?server=2.144.2.245&port=5201
 https://t.me/socks?server=2.144.20.111&port=111&user=YQK6EF5RPl&pass=cGJ7YhqrHW
