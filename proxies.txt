@@ -51,7 +51,7 @@ https://t.me/proxy?server=188.121.125.8&port=65535&secret=dd49a70de57a60174f18df
 https://t.me/proxy?server=193.233.230.199&port=443&secret=eeab32dc10c6b1dc6ccf5aca8efa1e0bae706574726f766963682e7275
 https://t.me/proxy?server=193.58.122.56&port=11443&secret=dd02e4244221ce5b63ab3ba63af30cdf51
 https://t.me/proxy?server=193.58.122.79&port=8443&secret=dda846f53d7df8721f014618d58cd28130
-https://t.me/proxy?server=194.120.230.106&port=433&secret=3XnnAQIAAQAH8AMDhuJMOt0
+https://t.me/proxy?server=195.254.165.151&port=9443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=195.254.165.184&port=21&secret=79e462821249bd7ac519130220c25d09
 https://t.me/proxy?server=195.254.165.185&port=34&secret=10446282fffffffffff80000fff80000
 https://t.me/proxy?server=195.254.165.206&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -115,6 +115,7 @@ https://t.me/proxy?server=64.188.80.92&port=443&secret=ca66dbb8b5d66a92fe3c01c44
 https://t.me/proxy?server=65.109.210.10&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=65.109.210.202&port=8443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=65.109.213.227&port=65535&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=65.109.215.115&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=65.109.34.234&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
 https://t.me/proxy?server=65.109.34.234&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267#@kia_net
 https://t.me/proxy?server=72.56.92.212&port=443&secret=ee0a36567ec8f8ef82ad1f1ad53730fc52636c6f7564666c6172652e636f6d
@@ -136,9 +137,7 @@ https://t.me/proxy?server=87.99.143.217&port=8080&secret=ddbe3f0adb4ae53a594fd5f
 https://t.me/proxy?server=89.125.98.143&port=4514&secret=ee0a638f4a7bd9db9e94449c652ea963066e616e6f2e6861707076706e2e6363
 https://t.me/proxy?server=91.107.172.155&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=92.118.234.215&port=443&secret=dddb9b51b5ce9a2820ff62d348cb23f1b9
-https://t.me/proxy?server=92.246.139.33&port=8888&secret=eeb94b8e35905f710e8ac96be3d451931a706574726f766963682e7275
 https://t.me/proxy?server=92.246.87.90&port=443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=93.115.203.140&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
 https://t.me/proxy?server=94.126.207.189&port=443&secret=bf7c5a95ce4e90e4cbc7aa2cae6d53ea
 https://t.me/proxy?server=95.85.231.6&port=8443&secret=46b107169c2e3968abc49eba40928782
 https://t.me/proxy?server=98.84.109.35&port=80&secret=dd104462821249bd7ac519130220c25d09
@@ -215,6 +214,7 @@ https://t.me/socks?server=0.0.0.0&port=1080
 https://t.me/socks?server=109.122.246.183&port=10808&user=&pass=
 https://t.me/socks?server=176.65.242.176&port=1080
 https://t.me/socks?server=176.65.242.179&port=1080
+https://t.me/socks?server=185.232.152.98&port=54123&user=beni&pass=beni
 https://t.me/socks?server=194.85.251.197&port=35269&user=vxJmomhbh1&pass=ch21ALrQE2
 https://t.me/socks?server=2.144.2.245&port=5201
 https://t.me/socks?server=2.144.20.111&port=111&user=YQK6EF5RPl&pass=cGJ7YhqrHW
@@ -223,6 +223,7 @@ https://t.me/socks?server=2.144.21.240&port=1086&user=telegram-is-@rootface&pass
 https://t.me/socks?server=2.144.21.81&port=1080
 https://t.me/socks?server=2.144.22.170&port=1087&user=telegram-is-@rootface&pass=@rootface-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/socks?server=2.144.6.176&port=1086
+https://t.me/socks?server=5.201.152.68&port=800&user=tel1&pass=tel2eg
 https://t.me/socks?server=5.232.140.53&port=10808
 https://t.me/socks?server=78.157.50.36&port=3389&user=Azir69ac1f7d3ac4c&pass=Azir69ac1f7d3ac4c
 https://t.me/socks?server=78.157.50.41&port=53&user=Azir69b8f8e8902db&pass=Azir69b8f8e8902db
