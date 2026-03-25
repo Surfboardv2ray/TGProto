@@ -61,16 +61,13 @@ https://t.me/proxy?server=185.209.42.69&port=8443&secret=20f39711247d6cd59835103
 https://t.me/proxy?server=185.209.42.69&port=8443&secret=20f39711247d6cd5983510336d9b827f#LyricPixelArt
 https://t.me/proxy?server=185.214.74.147&port=443&secret=ee663a55116e71d57f9655312ae65c2ea4646c2e676f6f676c652e636f6d
 https://t.me/proxy?server=185.237.95.231&port=443&secret=ee4571396297582727452bf660db01b789676f6f676c652e636f6d
+https://t.me/proxy?server=185.3.200.175&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D
 https://t.me/proxy?server=185.60.137.156&port=8443&secret=75f9a8da21406c0db5e92c015368345c
 https://t.me/proxy?server=185.97.116.230&port=56203&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267
 https://t.me/proxy?server=188.121.125.8&port=65535&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5#@Acc_Girr
 https://t.me/proxy?server=193.58.122.79&port=8443&secret=dda846f53d7df8721f014618d58cd28130
-https://t.me/proxy?server=194.120.230.106&port=433&secret=3XnnAQIAAQAH8AMDhuJMOt0
-https://t.me/proxy?server=194.120.230.106&port=433&secret=3XnnAQIAAQAH8AMDhuJMOt0.
 https://t.me/proxy?server=194.154.29.221&port=443&secret=993032016aa6265bcd952b0b0a871344
 https://t.me/proxy?server=194.238.57.153&port=42295&secret=eeac52b417aeb1ce2a6e63a0a4ee81f5d03139342e3233382e35372e3135332e6e69702e696f
-https://t.me/proxy?server=195.254.165.106&port=9443&secret=EERighJJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=195.254.165.138&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
 https://t.me/proxy?server=195.254.165.151&port=9443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=195.254.165.184&port=21&secret=79e462821249bd7ac519130220c25d09
 https://t.me/proxy?server=195.254.165.185&port=34&secret=10446282fffffffffff80000fff80000
@@ -90,7 +87,6 @@ https://t.me/proxy?server=195.254.165.250&port=25565&secret=dd79e344818749bd7ac5
 https://t.me/proxy?server=195.254.165.251&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=195.254.165.251&port=25565&secret=dd79e344818749bd7ac519130220c25d09#@LyricPixelArt
 https://t.me/proxy?server=195.254.165.251&port=25565&secret=dd79e344818749bd7ac519130220c25d09#mosa
-https://t.me/proxy?server=195.254.165.251&port=25565&secret=dd79e344818749bd7ac519130220c25d09#net
 https://t.me/proxy?server=195.254.165.251&port=25565&secret=dd79e344818749bd7ac519130220c25d09&
 https://t.me/proxy?server=195.254.165.251&port=25565&secret=dd79e344818749bd7ac519130220c25d09&@config_uxer
 https://t.me/proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09
@@ -116,6 +112,8 @@ https://t.me/proxy?server=212.86.64.126&port=443&secret=7l1GrMEsmyDKaEwPncsAz0Z3
 https://t.me/proxy?server=213.176.77.28&port=443&secret=dd8d76c6c7b6958e2a93e04c6ef53aed80
 https://t.me/proxy?server=216.230.234.3&port=8443&secret=cd25966d58b3a452ea24ed9ca78a2799
 https://t.me/proxy?server=217.177.75.145&port=443&secret=1b23e68aebd74373a29ac5f5523fa29c
+https://t.me/proxy?server=217.60.1.20&port=443&secret=b8d4e22ed433b6e01527efdbfe6b8f09
+https://t.me/proxy?server=217.60.61.27&port=1&secret=2d24bc724e49fdf32f2e00dd554989fc
 https://t.me/proxy?server=31.130.151.16&port=443&secret=4931e9e6000537266a0de4dbb81f81fa
 https://t.me/proxy?server=31.59.58.171&port=8443&secret=ee79612e72750947899a4c77419d39c3
 https://t.me/proxy?server=36.141.117.10&port=40508&secret=feff39bcddb62859ade093fcad935858
@@ -127,6 +125,7 @@ https://t.me/proxy?server=37.139.43.26&port=443&secret=ddf5199e949c0f23bc8875812
 https://t.me/proxy?server=37.139.43.26&port=443&secret=ddf5199e949c0f23bc887581218ad8c1e6#LyricPixelArt
 https://t.me/proxy?server=37.139.43.80&port=443&secret=f5199e949c0f23bc887581218ad8c1e6
 https://t.me/proxy?server=43.250.53.22&port=443&secret=4fc30d1222972a04067e805a5134cb57
+https://t.me/proxy?server=44.243.35.229&port=80&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=45.139.29.50&port=8443&secret=ddf672deb6dcac2f471e8ccffb1eacc82f
 https://t.me/proxy?server=45.139.29.50&port=8443&secret=ddf672deb6dcac2f471e8ccffb1eacc82f#LyricPixelArt
 https://t.me/proxy?server=45.90.13.34&port=443&secret=dda85f2776cc83dbff66b440fb03050cf7
@@ -163,13 +162,15 @@ https://t.me/proxy?server=72.56.92.212&port=443&secret=ee0a36567ec8f8ef82ad1f1ad
 https://t.me/proxy?server=77.238.251.205&port=8443&secret=dd54bee7b42b9df58276bc326fece52705
 https://t.me/proxy?server=77.239.112.81&port=443&secret=de9c430f1164f4eb2b2742dcab429252
 https://t.me/proxy?server=77.239.112.86&port=30534&secret=ddbee03206cb1a464769f666fc1820b03f
+https://t.me/proxy?server=77.72.80.11&port=6443&secret=79e70102001e7807f0104386124c0479
+https://t.me/proxy?server=78.153.139.201&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557
 https://t.me/proxy?server=78.153.139.201&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557#@LyricPixelArt
 https://t.me/proxy?server=78.153.139.201&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557#Mosa
-https://t.me/proxy?server=78.153.139.201&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557#net
 https://t.me/proxy?server=78.157.50.36&port=80&secret=7us3wbGszWlAinJkIZplXEVsb2dpbi5uaXJ2YW5hLXNtb2tlLmNvbQ
 https://t.me/proxy?server=78.157.50.41&port=2087&secret=7us3wbGszWlAinJkIZplXEVsb2dpbi5uaXJ2YW5hLXNtb2tlLmNvbQ
 https://t.me/proxy?server=79.137.204.12&port=8443&secret=eea9d0932950cf8ed1de45e1d6c422ae8331632e7275
 https://t.me/proxy?server=80.78.27.46&port=443&secret=ee813266cd35bc505489ff0a59b9facbc5636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=85.133.194.114&port=8443&secret=79e344818749
 https://t.me/proxy?server=85.133.194.99&port=6443&secret=79e344818749bd7ac519130220c25d09#LyricPixelArt
 https://t.me/proxy?server=85.155.101.63&port=443&secret=77e616b89815f53b5a2d2d4299fc7ede
 https://t.me/proxy?server=87.99.143.217&port=8080&secret=ddbe3f0adb4ae53a594fd5fec4dd00287f
@@ -178,7 +179,6 @@ https://t.me/proxy?server=89.125.98.143&port=4514&secret=ee0a638f4a7bd9db9e94449
 https://t.me/proxy?server=91.107.189.181&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=92.118.234.215&port=443&secret=dddb9b51b5ce9a2820ff62d348cb23f1b9
 https://t.me/proxy?server=92.118.234.215&port=443&secret=dddb9b51b5ce9a2820ff62d348cb23f1b9#@LyricPixelArt
-https://t.me/proxy?server=92.118.234.215&port=443&secret=dddb9b51b5ce9a2820ff62d348cb23f1b9#Hddify
 https://t.me/proxy?server=92.246.87.90&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=94.126.207.189&port=443&secret=bf7c5a95ce4e90e4cbc7aa2cae6d53ea
 https://t.me/proxy?server=95.85.231.6&port=8443&secret=46b107169c2e3968abc49eba40928782
@@ -291,6 +291,8 @@ https://t.me/socks?server=78.157.50.41&port=53&user=Azir69b8f8e8902db&pass=Azir6
 https://t.me/socks?server=78.157.50.41&port=53&user=Azir69b99b32529ce&pass=Azir69b99b32529ce
 https://t.me/socks?server=80.71.149.37&port=8080&user=admin&pass=pass
 https://t.me/socks?server=93.115.120.74&port=2020&user=test&pass=R@@t#123
+https://t.me/socks?server=94.139.191.215&port=8443&user=@Zx2_TMS&pass=@Zx2_TMS
+https://t.me/socks?server=94.139.191.215&port=8443&user=@Zx2_TMS&pass=@Zx2_TMS#@LyricPixelArt
 https://t.me/socks?server=94.182.195.60&port=9090&user=devops&pass=Xz6Txmacjnb2wJBs9Wkp7x209v7Y9maINCtBDApM
 https://t.me/socks?server=94.184.10.104&port=10821&user=@rastin0x&pass=@config_uxer
 https://t.me/socks?server=socks3.nirvana-smoke.com&port=3389&user=Azir69b4e54121aad&pass=Azir69b4e54121aad
