@@ -2,7 +2,7 @@ name: Telegram Proxy Loader
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # scheduler
+    - cron: "0 */1 * * *"   # scheduler
   workflow_dispatch:        # manual run
 
 jobs:
