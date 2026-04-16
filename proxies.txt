@@ -124,6 +124,8 @@ https://t.me/proxy?server=150.241.92.222&port=443&secret=ee549ac3e70a17583a7efa0
 https://t.me/proxy?server=151.244.42.6&port=85&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d&@proxyiran
 https://t.me/proxy?server=151.244.42.7&port=85&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d&@proxyiran
 https://t.me/proxy?server=152411.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5&@Data_proxy
+https://t.me/proxy?server=153.76.122.60&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+https://t.me/proxy?server=153.76.122.60&port=443&secret=ee79612e727541b085036f8a439e05c2&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=153.76.122.82&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=153.76.122.82&port=443&secret=ee79612e7275bddc507798bd5dba840a&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=154.83.149.124&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
@@ -163,7 +165,6 @@ https://t.me/proxy?server=172.65.48.76&port=6443&secret=eeNEgYdJvXrFGRMCIMJdCQtY
 https://t.me/proxy?server=172.65.96.123&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy
 https://t.me/proxy?server=173.199.71.20&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=173.199.71.20&port=443&secret=4641980403908da0b01d9366bc4f77ba&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
-https://t.me/proxy?server=176.12.69.32&port=443&secret=ee79612e72758e84feb907475118033d
 https://t.me/proxy?server=176.12.69.32&port=443&secret=ee79612e72758e84feb907475118033d&@jafar_Youtube
 https://t.me/proxy?server=176.124.205.32&port=8443&secret=ee6b3e7f522714e2c0764e9291c7a7f0ba616e2e6661762e64796e6d652e6f7668&@vpnbaz
 https://t.me/proxy?server=178.104.160.179&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
@@ -333,6 +334,7 @@ https://t.me/proxy?server=195.254.165.15&port=65443&secret=10446282fffffffffff80
 https://t.me/proxy?server=195.254.165.151&port=4455&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20
 https://t.me/proxy?server=195.254.165.151&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
 https://t.me/proxy?server=195.254.165.151&port=9443&secret=1603010200010001fc030386e24c3add&@vpnbaz
+https://t.me/proxy?server=195.254.165.151&port=9443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=195.254.165.151&port=9443&secret=EERighJJvXrFGRMCIMJdCQ&@vpnbaz
 https://t.me/proxy?server=195.254.165.151&port=9443&secret=FgMBAgABAAH8AwOG4kw63Q==&@DRA_NET_FREE
 https://t.me/proxy?server=195.254.165.151&port=9443&secret=FgMBAgABAAH8AwOG4kw63Q==&@vpnbaz
@@ -435,6 +437,7 @@ https://t.me/proxy?server=2.27.4.74&port=443&secret=ee223b07b10c28c7032f8612b139
 https://t.me/proxy?server=2.27.4.96&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=2.27.4.96&port=443&secret=ee223b07b10c28c7032f8612b139dd79c3766b2e7275&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=2.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09&@Data_proxy
+https://t.me/proxy?server=204.168.153.162&port=8080&secret=dd104462821249bd7ac519130220c25d0
 https://t.me/proxy?server=204.168.153.162&port=8080&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=204.168.153.162&port=8080&secretdd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=204.168.153.162&port=8080&secretdd104462821249bd7ac519130220c25d09#@Eternal_Connect
@@ -488,16 +491,14 @@ https://t.me/proxy?server=31.220.72.224&port=443&bot=@mtpro_xyz_bot&channel=@mtp
 https://t.me/proxy?server=31.220.72.224&port=443&secret=eea53322ad1baa135a8fcc2d5d6bff6e3a636c6f7564666c6172652e636f6d&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=31.220.72.60&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=31.220.72.60&port=443&secret=ee399a6e8dbe6399816eba10c0fa78609d636c6f7564666c6172652e636f6d&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
-https://t.me/proxy?server=31.220.75.141&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
-https://t.me/proxy?server=31.220.75.141&port=443&secret=ee5bddeb17a67936f654c740e97bb4cad1636c6f7564666c6172652e636f6d&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
-https://t.me/proxy?server=31.220.76.155&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
-https://t.me/proxy?server=31.220.76.155&port=443&secret=eee7875c24b8bcf7b57e48d55417776d67636c6f7564666c6172652e636f6d&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+https://t.me/proxy?server=31.220.78.114&port=443&secret=ee5babc986c1c577707c073c59fda904a0636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=31.220.78.13&port=443&secret=7rdZMJGytphTy8KSwuIIS4BjbG91ZGZsYXJlLmNvbQ
 https://t.me/proxy?server=31.220.78.96&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=31.220.78.96&port=443&secret=ee3be8b0dd88684ce762b7a34def93044b636c6f7564666c6172652e636f6d&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=31.41.33.114&port=443&secret=eee854b22396ba5a74f23b6f126108294a6972616e2e6d69642e7275
 https://t.me/proxy?server=31.41.33.114&port=443&secret=eee854b22396ba5a74f23b6f126108294a6972616e2e6d69642e7275#@Eternal_Connect
 https://t.me/proxy?server=31.47.51.111&port=80&secret=0feeb488ea1f4a9b741a145bc00d3004
+https://t.me/proxy?server=31.47.51.111&port=80&secret=0feeb488ea1f4a9b741a145bc00d3004#@Eternal_Connect
 https://t.me/proxy?server=31.47.51.152&port=8582&secret=ddbb01e59aa510ca70ce9e935c471df2d8&@vpnbaz
 https://t.me/proxy?server=31.58.137.124&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275#@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-48069&secret=767cf6f14f461cdd166b54eddb53e1b0
 https://t.me/proxy?server=33.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09&@Data_proxy
@@ -532,6 +533,8 @@ https://t.me/proxy?server=44.223.90.89&port=80&secret=dd104462821249bd7ac5191302
 https://t.me/proxy?server=44.243.35.229&port=80&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=44.251.216.49&port=80&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=44.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09&@Data_proxy
+https://t.me/proxy?server=45-136-125-44.sslip.io&port=332&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+https://t.me/proxy?server=45-136-125-44.sslip.io&port=332&secret=7tMMu6Vv6kL_Sj3TJ1zRZ3F3d3cuZ29vZ2xlLmNvbQ&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=45.129.39.135&port=8869&secret=767cf6f14f461cdd166b54eddb53e1b0&@ProxyVPN11
 https://t.me/proxy?server=45.129.39.135&port=8869&secret=767cf6f14f461cdd166b54eddb53e1b0&@vpnbaz
 https://t.me/proxy?server=45.129.39.135&port=8869&secret=767cf6f14f461cdd166b54eddb53e1b0&@zibanabz
@@ -609,7 +612,6 @@ https://t.me/proxy?server=52.56.135.13&port=80&secret=dd104462821249bd7ac5191302
 https://t.me/proxy?server=52.56.135.13&port=80&secret=dd104462821249bd7ac519130220c25d09&@vpnbaz
 https://t.me/proxy?server=57.129.121.20&port=443&secret=80e3c68c7228488444913e77777dddfe
 https://t.me/proxy?server=62.238.15.67&port=443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=62.238.15.67&port=443&secret=dd104462821249bd7ac519130220c25d09#@Eternal_Connect
 https://t.me/proxy?server=62.238.15.67&port=443&secret=dd104462821249bd7ac519130220c25d09&@jafar_Youtube
 https://t.me/proxy?server=65.108.65.46&port=65&secret=1320PuNyHw_LQKT_Y7XNJw==&@proxyiran
 https://t.me/proxy?server=65.109.127.34&port=443&secret=dd104462821249bd7ac519130220c25d09
@@ -907,7 +909,6 @@ https://t.me/proxy?server=92.118.234.215&port=443&secret=dddb9b51b5ce9a2820ff62d
 https://t.me/proxy?server=92.246.87.46&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=93.115.203.140&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557&@vpnbaz
 https://t.me/proxy?server=93.123.30.203&port=443&secret=6356ebb33a57b6deda8a1c3cf2aee557&@vpnbaz
-https://t.me/proxy?server=93.189.228.56&port=443&secret=eef2f44e0cc16ad0e07ae25f665aac5c
 https://t.me/proxy?server=93.77.167.248&port=3443&secret=89296d353ee74c643bcf8641aa2b299f&channel=@skyportall
 https://t.me/proxy?server=94.101.181.174&port=37942&secret=7hwzc045V5-rHMNC35z929B3d3cuZ29vZ2xlLmNvbQ&@proxyiran
 https://t.me/proxy?server=94.103.83.193&port=443&secret=eee1627df97d2380c6fcd8a8934ba6ae606d61696c2e7275&@vpnbaz
@@ -958,8 +959,6 @@ https://t.me/proxy?server=95.217.29.187&port=8080&secret=dd104462821249bd7ac5191
 https://t.me/proxy?server=95.217.29.187&port=8080&secret=dd104462821249bd7ac519130220c25d09&@vpnbaz
 https://t.me/proxy?server=95.217.29.187&port=8080&secret=dd104462821249bd7ac519130220c25d09&@zibanabz
 https://t.me/proxy?server=95.85.231.6&port=8443&secret=46b107169c2e3968abc49eba40928782&@vpnbaz
-https://t.me/proxy?server=95.85.251.66&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
-https://t.me/proxy?server=95.85.251.66&port=443&secret=ee8e52a74eebc889c2691b756d1b0a9ae139352e38352e3235312e36362e6e69702e696f&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=98.84.109.35&port=80&secret=dd104462821249bd7ac519130220c25d09&@vpnbaz
 https://t.me/proxy?server=F1JNH.MTP.IPSENTER.NET&port=443&secret=ee14450898ab464060a55f70b8a2794a60676f6f676c652e636f6d
 https://t.me/proxy?server=Full1.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5&@Data_proxy
@@ -987,18 +986,27 @@ https://t.me/proxy?server=bisonant.morose.paintress.sluggish.unanxious.freeteles
 https://t.me/proxy?server=bisonant.morose.paintress.sluggish.unanxious.freeteleserye.com&port=2900&secret=9ba88d7ee6c1199d80cc1611060e7629&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=bosnia.capture.misdeem.offcast.washerwoman.pinoyteleseryehd.net&port=8500&secret=82bb272c25579297178d08fff7dbb0d6
 https://t.me/proxy?server=brookb631-82e07f23.proxytg.ink&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+https://t.me/proxy?server=brookb631-82e07f23.proxytg.ink&port=443&secret=f6fe059664c24962c99fbcc32553249e
 https://t.me/proxy?server=brookb631-82e07f23.proxytg.ink&port=443&secret=f6fe059664c24962c99fbcc32553249e&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=cdn07.fstee.online&port=8443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=cdn07.fstee.online&port=8443&secret=ee79612e727532b36cddaab25ffef2f5&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=cehia.yandex-mul.fun&port=8080&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=cehia.yandex-mul.fun&port=8080&secret=52eed4c88c2577efc8777b4011030d8f&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=cloudflare.modirpodir.ir&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=completion.dolby.patois.rhetorician.theosoph.pinoyfilms.net&port=8050&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+https://t.me/proxy?server=completion.dolby.patois.rhetorician.theosoph.pinoyfilms.net&port=8050&secret=e24097921dfa58a8a7a5ea31f7122630&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=dalghak.rylvin.bar&port=443&secret=2fff2d4ed2b27ce431f313db2ade78e7
+https://t.me/proxy?server=dre.2pac.live&port=9999&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+https://t.me/proxy?server=dre.2pac.live&port=9999&secret=ee27efee0c0300e57132e3cf6b34ff34557777772e7068696c6970732e636f6d&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=ey-to.ir.omide-hasti.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0=&@Data_proxy
 https://t.me/proxy?server=fasst.sitemcinet.co.uk&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t&@proxyiran
 https://t.me/proxy?server=free-mtproto.flexiblenet.org&port=443&secret=4da47f00c2291d55696fa3ae954ffd78&@Data_proxy
+https://t.me/proxy?server=free-nl.kimt.space&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+https://t.me/proxy?server=free-nl.kimt.space&port=443&secret=ee3efced182e68e689a17d58c71ff6fafe667265652d6e6c2e6b696d742e7370616365&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+https://t.me/proxy?server=free.kimt.space&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=free.kimt.space&port=443&secret=ee6d308bbd1b3b1fae56e334750ecf2f606164732e78352e7275
 https://t.me/proxy?server=free.kimt.space&port=443&secret=ee6d308bbd1b3b1fae56e334750ecf2f606164732e78352e7275#@Eternal_Connect
+https://t.me/proxy?server=free.kimt.space&port=443&secret=ee6d308bbd1b3b1fae56e334750ecf2f606164732e78352e7275&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=freeon.name&port=8443&secret=eeed1a5a7f339b8ff9840d52df123829706164732e78352e7275
 https://t.me/proxy?server=frhb90498flex.ikexpress.com&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=frhb90498flex.ikexpress.com&port=443&secret=ee5df55ec73ac44c90b83e29641e28fd26676f6f676c652e636f6d&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
@@ -1028,8 +1036,6 @@ https://t.me/proxy?server=ipoone.user.alo.alo-alo.info&port=8443&secret=ProxyQav
 https://t.me/proxy?server=iraangavi.co.uk&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t&@proxyiran
 https://t.me/proxy?server=kabos.website-best.info&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=lite.2bd.net&port=654&secret=ee2d921fcf5bcf84da8f17cd66897aa86a6c6974652e3262642e6e6574&@Data_proxy
-https://t.me/proxy?server=llazyrin.ru&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
-https://t.me/proxy?server=llazyrin.ru&port=443&secret=eeb359972f13e568d2e15bc826257028d56c6c617a7972696e2e7275&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=makeup.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add&@Data_proxy
 https://t.me/proxy?server=mandrill.practice.stability.valence.zing-up.umorina.info&port=33368&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=mandrill.practice.stability.valence.zing-up.umorina.info&port=33368&secret=e617211546ab28f7491dc8a03b681339&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
@@ -1042,8 +1048,6 @@ https://t.me/proxy?server=mt.jebance.ru&port=8443&secret=dd28df1727029aed45d15f3
 https://t.me/proxy?server=mt.space-link.cloud&port=443&secret=eeee09513d515ee0c9ab950eb3698a1b0e6d742e73706163652d6c696e6b2e636c6f7564
 https://t.me/proxy?server=mtp.fasti.fun&port=8443&secret=76291e5f4627757a22173cec26b1c892&@vpnbaz
 https://t.me/proxy?server=mtp.vsemvpn.cc&port=443&secret=dd15992ff6e054e6b06faab3689633355c&@vpnbaz
-https://t.me/proxy?server=mtproto-de1.nolimited.space&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
-https://t.me/proxy?server=mtproto-de1.nolimited.space&port=443&secret=eefd4933b3863b668128a246b6cb2249016170692d6d6170732e79616e6465782e7275&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=mtproto-fi1.nolimited.space&port=443&secret=ee297e5222c6724bb78c63cb38bc059eed6170692d6d6170732e79616e6465782e7275
 https://t.me/proxy?server=mtproto.online&port=443&secret=ee139e0ee36150c1ea3bf299796586b5457777772e7674622e7275&@vpnbaz
 https://t.me/proxy?server=mtproto.proxysoxy.com&port=8443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
@@ -1078,8 +1082,6 @@ https://t.me/proxy?server=proxlet.site&port=443&secret=8d969eef6ecad3c29a3a62928
 https://t.me/proxy?server=proxy-sosavpn.duckdns.org&port=8443&secret=f5a36ceadd9bbedd919fbd9f1c9387dd
 https://t.me/proxy?server=proxy.game-drop.com&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=proxy.game-drop.com&port=443&secret=ee00a6e0c07566228f79070a141cb966fa74726176656c2e79616e6465782e7275&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
-https://t.me/proxy?server=proxy.xxee.ru&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
-https://t.me/proxy?server=proxy.xxee.ru&port=443&secret=eed5c322a50f706f672dcbfca3413d96e077622e7275&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=proxyg.site&port=443&secret=eed68360458af63073bac1394e8c7a48da70726f7879672e73697465#@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-@LyricPixelArt-48069&secret=767cf6f14f461cdd166b54eddb53e1b0
 https://t.me/proxy?server=proxyonline.online&port=443&secret=7b52009b64fd0a2a49e6d8a939753077
 https://t.me/proxy?server=proxyrknsosatb.site&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
@@ -1104,6 +1106,7 @@ https://t.me/proxy?server=r1.newr1.co.uk&port=85&secret=FgMBAgABAAH8AxOG4kw63Q==
 https://t.me/proxy?server=r1.newr1.co.uk&port=85&secret=FgMBAgABAAH8AxOG4kw63Q==&@Data_proxy
 https://t.me/proxy?server=ra.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=reboot.tikla.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@Data_proxy
+https://t.me/proxy?server=red.coolsystem.xyz&port=1337&secret=dd123451234512345123451234512345ff
 https://t.me/proxy?server=richie.2pac.live&port=8888&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=richie.2pac.live&port=8888&secret=ee13238607263a9c961fd854ae0d8b5e1e7777772e7068696c6970732e636f6d&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=rkn.tg&port=1337&secret=dda2d3fa639a6ddcf8d6d1c5913d001531
@@ -1287,6 +1290,8 @@ https://t.me/socks?server=213.176.64.22&port=1080
 https://t.me/socks?server=213.176.64.22&port=1080#@Eternal_Connect
 https://t.me/socks?server=37.148.82.2&port=10808
 https://t.me/socks?server=37.202.234.122&port=8089&user=amir&pass=amirhttps://t.me/PacketNetEmergencyBot?start=ref_7445856854
+https://t.me/socks?server=37.32.11.92&port=1090&user=dgajdjesxkalfhhzh78194356491665dhdjjdnrjchavbfkzoajhrhfurhhchevskjwheuchrvrhjzjwkwkfiurhbr485731645&pass=vshtu22848sbfh5hsh7282hddh3
+https://t.me/socks?server=37.32.11.92&port=1090&user=dgajdjesxkalfhhzh78194356491665dhdjjdnrjchavbfkzoajhrhfurhhchevskjwheuchrvrhjzjwkwkfiurhbr485731645&pass=vshtu22848sbfh5hsh7282hddh3#@Eternal_Connect
 https://t.me/socks?server=37.32.12.112&port=2200&user=Telegram+:+join+@DrNpv
 https://t.me/socks?server=37.32.12.112&port=2288&user=Telegram+:+join+@DrNpv
 https://t.me/socks?server=37.32.12.112&port=7799&user=Telegram+:+join+@DrNpv
@@ -1314,7 +1319,6 @@ https://t.me/socks?server=37.32.24.244&port=1181&user=Telegram+:+@DrNpv
 https://t.me/socks?server=37.32.6.184&port=31930&user=@Begoo_VPN&pass=@Begoo_VPN
 https://t.me/socks?server=37.32.7.64&port=47763&user=@Begoo_VPN&pass=@Begoo_VPN
 https://t.me/socks?server=37.32.7.64&port=47763&user=@UnNurmal&pass=@Guesswhaat
-https://t.me/socks?server=37.32.7.64&port=47763&user=@UnNurmal&pass=@Guesswhaat#@Eternal_Connect
 https://t.me/socks?server=37.32.9.62&port=1083&user=Telegram+:+vip+@@DarcProxy
 https://t.me/socks?server=37.32.9.62&port=1083&user=Telegram+:+vip+@DarcProxy
 https://t.me/socks?server=37.32.9.62&port=1083&user=Telegram+:+vip+@DrNpv
@@ -1335,7 +1339,6 @@ https://t.me/socks?server=45.149.77.106&port=8070&user=@Art24x&pass=1111#@Eterna
 https://t.me/socks?server=45.149.77.106&port=8070&user=@Gangstersdonotcry&pass=1111
 https://t.me/socks?server=45.159.112.98&port=39203&user=@Begoo_VPN&pass=@Begoo_VPN
 https://t.me/socks?server=45.82.139.218&port=40735&user=@rastin0x&pass=@aeronode0
-https://t.me/socks?server=46.100.60.160&port=2063&user=samin&pass=samin@FastNetTools
 https://t.me/socks?server=46.209.44.2&port=6302&user=anten&pass=Anten@#8900
 https://t.me/socks?server=46.209.44.2&port=6302&user=anten&pass=Anten@#8900&@ProxyVPN11
 https://t.me/socks?server=5.255.99.75&port=1080
