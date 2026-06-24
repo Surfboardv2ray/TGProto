@@ -8,6 +8,7 @@ https://t.me/proxy?server=167.233.125.67&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjj
 https://t.me/proxy?server=167.233.206.212&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=167.233.52.115&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=167.233.54.153&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+https://t.me/proxy?server=167.233.59.97&port=155&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=167.235.249.231&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=178.105.52.104&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=178.105.92.183&port=443&secret=dd104462821249bd7ac519130220c25d09
@@ -107,7 +108,6 @@ https://t.me/proxy?server=vip.link-a2.ir&port=155&secret=dd1603010200010001fc030
 https://t.me/proxy?server=vip.link-a4.ir&port=155&secret=dd82ce1f84af4033cc7e7b021069be3d5b
 https://t.me/proxy?server=vip.opt-meli.info&port=155&secret=dd1603010200010001fc030386e24c3add
 https://t.me/proxy?server=vip1.shahrnetfarangsarashatelcenter.co.uk&port=155&secret=3XnnAQIAAQAH8AMDhuJMOt0
-https://t.me/proxy?server=vip11.opt-meli.info&port=155&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/socks?server=45.82.138.165&port=1010&user=Telegram+:+@SocksProxy+🍃&pass=Telegram+:+@SocksProxy+🍃
 https://t.me/socks?server=45.94.213.213&port=443&user=Telegram+:+@SocksProxy+🍃
 https://t.me/socks?server=62.220.126.56&port=25211
