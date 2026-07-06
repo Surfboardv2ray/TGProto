@@ -1,5 +1,4 @@
 https://t.me/proxy?server=116.202.20.234&port=8443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=116.202.55.31&port=25565&secret=FgMBAgABAAH8AxOG4kw63Q
 https://t.me/proxy?server=116.203.103.113&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=116.203.11.161&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=116.203.2.157&port=4455&secret=dd104462821249bd7ac519130220c25d09
@@ -83,7 +82,6 @@ https://t.me/proxy?server=95.217.69.50&port=25565&secret=FgICAwABAAL8AxOG4Uw63Q=
 https://t.me/proxy?server=FIFA.goooalir.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=b.similemat.com&port=2443&secret=5467af21db9f8a03a7786dd43d4d7c45
 https://t.me/proxy?server=bomberoo.shop&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-https://t.me/proxy?server=br.kingproxynewdomailasiatech.ink&port=22&secret=dd79e7010200010007f0030386e24c3add
 https://t.me/proxy?server=miinecrafto.com&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=mimecraft4ir.homes&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=mine.navar1.ir&port=25565&secret=FgICAwABAAL8AxOG4Uw63Q==
