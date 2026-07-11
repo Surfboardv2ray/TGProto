@@ -81,6 +81,7 @@ https://t.me/proxy?server=miinecrafto.com&port=25565&secret=ee1603010200010001fc
 https://t.me/proxy?server=mimecraft4ir.homes&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=minecraft.nimagallery18.ir&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=nimagallery18.ir&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=vip.petros-es.co.uk&port=1010&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/socks?server=45.82.138.165&port=1010&user=Telegram+:+@SocksProxy+🍃&pass=Telegram+:+@SocksProxy+🍃
 https://t.me/socks?server=45.94.213.213&port=443&user=Telegram+:+@SocksProxy+🍃
 https://t.me/socks?server=62.220.126.56&port=25211
