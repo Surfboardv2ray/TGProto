@@ -76,7 +76,6 @@ https://t.me/proxy?server=95.216.65.113&port=8443&secret=dd104462821249bd7ac5191
 https://t.me/proxy?server=95.216.65.120&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=A.paydar.site&port=8443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=FIFA.goooalir.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=b.similemat.com&port=2443&secret=5467af21db9f8a03a7786dd43d4d7c45
 https://t.me/proxy?server=bomberoo.shop&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=ir.goalir.co.uk&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t
 https://t.me/proxy?server=ir.goalir.co.uk&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -85,19 +84,4 @@ https://t.me/proxy?server=mimecraft4ir.homes&port=25565&secret=ee160301020001000
 https://t.me/proxy?server=minecraft.nimagallery18.ir&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=nimagallery18.ir&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/socks?server=45.82.138.165&port=1010&user=Telegram+:+@SocksProxy+🍃&pass=Telegram+:+@SocksProxy+🍃
-https://t.me/socks?server=45.94.213.213&port=443&user=Telegram+:+@SocksProxy+🍃
-https://t.me/socks?server=62.220.126.56&port=25211
-https://t.me/socks?server=62.220.126.56&port=27969&user=@SocksProxy+🍃&pass=@SocksProxy+🍃
-https://t.me/socks?server=62.220.126.56&port=28484
-https://t.me/socks?server=62.220.126.56&port=28571&user=Telegram+:+@SocksProxy+🍃
-https://t.me/socks?server=62.220.126.92&port=25393&user=@SocksProxy+🍃
-https://t.me/socks?server=62.220.126.92&port=30992
-https://t.me/socks?server=62.220.126.92&port=31548
-https://t.me/socks?server=62.220.126.92&port=31652
-https://t.me/socks?server=62.220.126.92&port=31876
-https://t.me/socks?server=62.220.126.92&port=32024
-https://t.me/socks?server=62.220.126.92&port=32092
-https://t.me/socks?server=62.220.126.92&port=32231
 https://t.me/socks?server=81.12.24.160&port=28364&user=@SocksProxy+🍃
-https://t.me/socks?server=81.12.24.237&port=29112&user=@SocksProxy+🍃&pass=@SocksProxy+🍃
-https://t.me/socks?server=95.38.179.101&port=80&user=@SocksProxy+🍃
