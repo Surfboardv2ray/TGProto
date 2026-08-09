@@ -111,6 +111,7 @@ https://t.me/proxy?server=shhhh-------------------a.mitivpn.co.uk&port=22&secret
 https://t.me/proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=tassian.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=you.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/socks?server=45.82.138.165&port=1010&user=Telegram+:+@SocksProxy+🍃&pass=Telegram+:+@SocksProxy+🍃
 https://t.me/socks?server=45.94.213.213&port=443&user=Telegram+:+@SocksProxy+🍃
