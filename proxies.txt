@@ -3,6 +3,7 @@ https://t.me/proxy?server=116.203.12.228&port=8443&secret=dd104462821249bd7ac519
 https://t.me/proxy?server=116.203.2.157&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=140.233.177.193&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
 https://t.me/proxy?server=167.233.215.5&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=167.233.250.101&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=167.233.52.115&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=167.235.30.103&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=168.222.43.151&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
@@ -79,6 +80,7 @@ https://t.me/proxy?server=95.216.65.120&port=8443&secret=dd104462821249bd7ac5191
 https://t.me/proxy?server=95.217.244.189&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=FIFA.goooalir.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=Transfero.becbord.co.uk&port=7070&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=ai.golgoli1.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=at.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=b.similemat.com&port=2443&secret=5467af21db9f8a03a7786dd43d4d7c45
