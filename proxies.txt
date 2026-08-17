@@ -34,6 +34,7 @@ https://t.me/proxy?server=5.75.221.209&port=8443&secret=dd104462821249bd7ac51913
 https://t.me/proxy?server=5.75.222.115&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=5.78.215.141&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=5x.proto.mnbtm.li&port=2023&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=5xxlfa.mnbtm.li&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
 https://t.me/proxy?server=62.238.60.4&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=65.108.29.210&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=65.108.29.212&port=4455&secret=dd104462821249bd7ac519130220c25d09
@@ -115,6 +116,7 @@ https://t.me/proxy?server=shhhh-------------------a.mitivpn.co.uk&port=22&secret
 https://t.me/proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=tassian.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=trust.me.mnbtm.li&port=8880&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=you.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/socks?server=45.82.138.165&port=1010&user=Telegram+:+@SocksProxy+🍃&pass=Telegram+:+@SocksProxy+🍃
