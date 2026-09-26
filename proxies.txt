@@ -26,6 +26,7 @@ https://t.me/proxy?server=213.133.102.106&port=443&secret=dd104462821249bd7ac519
 https://t.me/proxy?server=29031374.goooalir.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=37.27.192.10&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=37.27.192.211&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=46.224.141.30&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
 https://t.me/proxy?server=46.224.143.79&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
 https://t.me/proxy?server=46.224.171.200&port=8080&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=46.225.22.114&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -121,6 +122,7 @@ https://t.me/proxy?server=leomessi.goooalir.co.uk&port=8443&secret=dd10446282124
 https://t.me/proxy?server=liverpool.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=look.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=mashti.just-money.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=me.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=meshki.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=messi2.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=miinecrafto.com&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
