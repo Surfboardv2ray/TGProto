@@ -2,7 +2,6 @@ https://t.me/proxy?server=116.202.185.20&port=8443&secret=dd104462821249bd7ac519
 https://t.me/proxy?server=116.203.11.161&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=116.203.12.228&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=116.203.145.184&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
-https://t.me/proxy?server=116.203.2.157&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=157.90.57.54&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=167.233.215.5&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=167.233.30.194&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
@@ -14,6 +13,7 @@ https://t.me/proxy?server=178.105.119.0&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRu
 https://t.me/proxy?server=178.105.52.104&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=188.245.1.146&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 https://t.me/proxy?server=188.245.252.34&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=188.245.28.236&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 https://t.me/proxy?server=194.60.228.63&port=8880&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=195.201.249.19&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=213.133.102.106&port=443&secret=dd104462821249bd7ac519130220c25d09
@@ -55,6 +55,7 @@ https://t.me/proxy?server=88.99.122.159&port=8443&secret=dd104462821249bd7ac5191
 https://t.me/proxy?server=89.167.82.220&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=91.107.147.246&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=91.107.150.148&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=91.107.152.115&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=91.107.155.20&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=91.107.246.90&port=8080&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=91.107.249.142&port=8080&secret=dd104462821249bd7ac519130220c25d09
