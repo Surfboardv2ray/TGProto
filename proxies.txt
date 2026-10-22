@@ -18,6 +18,7 @@ https://t.me/proxy?server=29031374.goooalir.co.uk&port=4455&secret=dd10446282124
 https://t.me/proxy?server=46.224.141.30&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
 https://t.me/proxy?server=46.225.249.82&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=46.225.251.79&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=46.225.253.114&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=49.13.228.20&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=49.13.36.137&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=49.13.84.142&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
@@ -52,7 +53,6 @@ https://t.me/proxy?server=91.107.147.246&port=4455&secret=dd104462821249bd7ac519
 https://t.me/proxy?server=91.107.152.115&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=91.107.155.20&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=91.107.246.90&port=8080&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=91.107.249.142&port=8080&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=91.107.252.35&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=91.234.147.8.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
 https://t.me/proxy?server=91.98.103.21&port=8443&secret=dd104462821249bd7ac519130220c25d09
