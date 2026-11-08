@@ -8,11 +8,13 @@ https://t.me/proxy?server=167.235.218.199&port=443&secret=YyEEgYdJXfrFmgMCIMJdjj
 https://t.me/proxy?server=167.235.30.103&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=178.104.176.206&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=178.104.180.106&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=178.105.119.0&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
 https://t.me/proxy?server=178.105.9.164&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 https://t.me/proxy?server=188.245.1.146&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 https://t.me/proxy?server=188.245.207.66&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 https://t.me/proxy?server=188.245.252.34&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=188.245.28.236&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
+https://t.me/proxy?server=194.60.228.63&port=8880&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=195.201.249.19&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=29031374.goooalir.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=46.224.141.30&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
@@ -23,6 +25,7 @@ https://t.me/proxy?server=46.225.253.114&port=8443&secret=dd104462821249bd7ac519
 https://t.me/proxy?server=49.13.228.20&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=49.13.36.137&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=49.13.84.142&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
+https://t.me/proxy?server=5.161.30.135&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=5.75.221.111&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=5.75.221.209&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=5.75.221.96&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -43,6 +46,7 @@ https://t.me/proxy?server=87.248.129.51&port=15&secret=ee1603010200010001fc03038
 https://t.me/proxy?server=87.248.129.52&port=15&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=88.198.78.29&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=88.99.122.159&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=91.107.147.246&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=91.107.152.115&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=91.107.155.20&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=91.234.147.8.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA==
@@ -130,6 +134,7 @@ https://t.me/proxy?server=tabestan.goooalir.co.uk&port=8443&secret=dd10446282124
 https://t.me/proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=winston.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=wolverhampton.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=you.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=zemestan.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/socks?server=45.82.138.165&port=1010&user=Telegram+:+@SocksProxy+🍃&pass=Telegram+:+@SocksProxy+🍃
 https://t.me/socks?server=45.94.213.213&port=443&user=Telegram+:+@SocksProxy+🍃
