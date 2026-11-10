@@ -27,7 +27,6 @@ https://t.me/proxy?server=216.mmd1.meli-n12.info&port=8443&secret=dd104462821249
 https://t.me/proxy?server=29031374.goooalir.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=333.antony-gordon.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=333.mtprotonewrunningproxasia.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
-https://t.me/proxy?server=37.27.169.207&port=25199&secret=eeef7920801189464bd8c212cbc0d436807777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=46.224.141.30&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ
 https://t.me/proxy?server=46.224.220.150&port=443&secret=eedfc04a3770990789e814bb9d3aa32eb57777772e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=46.225.249.82&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -208,6 +207,7 @@ https://t.me/proxy?server=nor-bala.flashspder.info&port=8443&secret=160301020001
 https://t.me/proxy?server=noron.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=old.graduat.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=online.shop.ir.eeso.cc&port=41561&secret=ee0fb94ae7d1fbb5fb13725ec97bbd56217777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=park.monik.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=
 https://t.me/proxy?server=perspolis.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=philadelphia.hezarto.info&port=5500&secret=7HQighJPBNMYVRNB6tdkVw
 https://t.me/proxy?server=pintrest-cool.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add
