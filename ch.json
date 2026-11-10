@@ -1,8 +1,9 @@
 [
+    "MTP_roto",
+    "PowerfulProxy",
+    "ProxysHUB",
+    "TelMTProto",
     "fastnettools",
     "kanfing_proxyy",
-    "MTP_roto",
-    "TelMTProto",
-    "PowerfulProxy",
-    "ProxysHUB"
+    "socksproxy"
 ]
