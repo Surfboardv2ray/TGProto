@@ -134,6 +134,7 @@ https://t.me/proxy?server=breeze.logmanfi.info&port=8443&secret=1603010200010001
 https://t.me/proxy?server=cdn1.graduat.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=cdn1.magli200.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=char.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=chat.appnormoor.com&port=443&secret=dd27729feca8dbcd8008c3fa4f12d92793
 https://t.me/proxy?server=cloudflare.weed.squadgame.co.uk&port=8443&secret=EE5f7ce28a2c4816c6c923dfd4d5630e01
 https://t.me/proxy?server=comback-all.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=cr777.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -166,7 +167,6 @@ https://t.me/proxy?server=great.cipservice.co.uk&port=2096&secret=eeNEgYdJvXrFGR
 https://t.me/proxy?server=gshs7o.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=hafez.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=haji-jan.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=hamrah.bank.ir.hamintori.co.uk&port=443&secret=dd5f7ce28a2c4816c6c923dfd4d5630e01dd
 https://t.me/proxy?server=hsdh7o.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=ir-ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
